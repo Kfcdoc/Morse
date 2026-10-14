@@ -1,4 +1,3 @@
-import "./style.css";
 import { textoAMorse, morseATexto } from "./morse.js";
 
 const modo = document.getElementById("modo");
